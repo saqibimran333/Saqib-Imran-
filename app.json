@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "Saqib Imran",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -8,7 +8,7 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Enter whatsapp web session.",
+            "description": "levanter_23a74fb9bba7e84a43b17c39ae36ec9d34.",
             "required": true
         },
         "SUDO": {
